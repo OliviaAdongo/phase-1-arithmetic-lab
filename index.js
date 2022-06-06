@@ -1,2 +1,7 @@
 
-// Write your code here
+function integerGreat(){
+    
+        Math.floor() > 0;
+        
+
+}
