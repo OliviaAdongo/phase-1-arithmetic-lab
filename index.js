@@ -1,7 +1,4 @@
-
-function integerGreat(){
-    
-        Math.floor() > 0;
-        
-
-}
+var multiply
+var random
+var mod 
+var max
